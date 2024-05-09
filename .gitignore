@@ -1,0 +1,6 @@
+*.ipynb
+*.json
+*.csv
+.ipynb_checkpoints
+__pycache__
+model_storage
